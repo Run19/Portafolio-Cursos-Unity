@@ -11,7 +11,6 @@ public class CanvasManager : MonoBehaviour
     [SerializeField]
     GameObject MainMenu;
     public static CanvasManager SI;
-
     private void Awake()
     {
         if (SI == null)
@@ -19,7 +18,6 @@ public class CanvasManager : MonoBehaviour
             SI = this;
         }
     }
-
     public void setCanvasInGameOver()
     {
         GameOver.SetActive(true);

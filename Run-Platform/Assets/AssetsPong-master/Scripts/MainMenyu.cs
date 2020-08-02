@@ -12,7 +12,7 @@ public class MainMenyu : MonoBehaviour
     public TextMeshProUGUI difficult;
     void Start()
     {
-        currentMode = 1;
+        currentMode = 0;
         currentDificult = 1;
         setDiff();
     }

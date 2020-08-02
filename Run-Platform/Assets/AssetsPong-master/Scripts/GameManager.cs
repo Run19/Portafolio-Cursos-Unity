@@ -3,14 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-
-public enum game
-{
-    Run2D,
-    pong
-}
-
-
 public enum GameState
 {
     mainMenu,
@@ -20,15 +12,15 @@ public enum GameState
 
 public class GameManager : MonoBehaviour
 {
+    private const int WINNER_SCORE = 5;
 
-    public game currentGame;
     public GameState currentGameState;
 
 
     private int playerPoints;
     private int enemyPoints;
     public static GameManager SI;
-    
+
     private void Awake()
     {
         if (SI == null)
@@ -40,7 +32,6 @@ public class GameManager : MonoBehaviour
     {
         MainMenu();
     }
-
 
     public void StartGame()
     {
@@ -54,7 +45,8 @@ public class GameManager : MonoBehaviour
 
 
 
-    public void GameOver() {
+    public void GameOver()
+    {
         setGameState(GameState.GameOver);
         CanvasManager.SI.setCanvasInGameOver();
     }
@@ -70,23 +62,22 @@ public class GameManager : MonoBehaviour
     public void pointE()
     {
         enemyPoints++;
-        if (enemyPoints > 0)
+        if (enemyPoints >= WINNER_SCORE)
         {
-            Ball.SI.StopAllCoroutines();
-             Invoke("GameOver",0.5f);
+            GameOver();
         }
     }
     public void pointP()
     {
         playerPoints++;
-        if(playerPoints>0)
+        if (playerPoints >= WINNER_SCORE)
         {
-            Ball.SI.StopAllCoroutines();
-            Invoke("GameOver", 0.5f);
-        }   
+            GameOver();
+        }
     }
 
-    void setGameState(GameState newGameState) {
+    void setGameState(GameState newGameState)
+    {
         currentGameState = newGameState;
     }
     #endregion

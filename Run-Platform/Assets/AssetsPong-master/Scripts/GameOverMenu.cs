@@ -15,12 +15,12 @@ public class GameOverMenu : MonoBehaviour
 
     private void OnEnable()
     {
-        if (GameManager.SI.getEPoints() > GameManager.SI.getPPoints())
+        if (GameManager.SI.getPPoints() > GameManager.SI.getEPoints())
         {
             switch (Enemy.SI.getEnemyDif())
             {
                 case enemyDif.Noob:
-                    GameText.text = "Congratulations You're a noob anymore";
+                    GameText.text = "Congratulations You're not a noob anymore";
                     break;
                 case enemyDif.Normal:
                     GameText.text = "Congratulations You're Amazing";

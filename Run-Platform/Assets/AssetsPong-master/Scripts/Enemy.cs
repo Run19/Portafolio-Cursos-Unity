@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public enum enemyDif{
+public enum enemyDif
+{
     Noob,
     Normal,
-    Hard,   
+    Hard,
     insane
 }
 
@@ -31,24 +32,27 @@ public class Enemy : MonoBehaviour
     }
     void Update()
     {
-        if (paddleMove.SI.transform.position.y > 0)
+        if (GameManager.SI.currentGameState == GameState.InGame)
         {
-            extraHit = 0.5f;
-        }
-        else
-        {
-            extraHit = -0.5f;
-        }
+            if (paddleMove.SI.transform.position.y > 0)
+            {
+                extraHit = 0.5f;
+            }
+            else
+            {
+                extraHit = -0.5f;
+            }
 
-        if (ballRb.velocity.x > 0 && ball.transform.position.x > -3.0f)
-        {
-            destiny = new Vector3(ball.transform.position.x, ball.transform.position.y + extraHit);
+            if (ballRb.velocity.x > 0 && ball.transform.position.x > -3.0f)
+            {
+                destiny = new Vector3(ball.transform.position.x, ball.transform.position.y + extraHit);
+            }
+            else
+            {
+                destiny = new Vector3(this.transform.position.x, 0f);
+            }
+            goDestiny(destiny);
         }
-        else 
-        {
-            destiny = new Vector3(this.transform.position.x, 0f);
-        }
-        goDestiny(destiny);
     }
 
     void goDestiny(Vector3 destiny)
@@ -73,31 +77,32 @@ public class Enemy : MonoBehaviour
 
     public void noob()
     {
-        speed = 4;
+        speed = 5;
         enemyDiff = enemyDif.Noob;
     }
 
     public void easy()
     {
-        
-        speed = 5;
+
+        speed = 6;
         enemyDiff = enemyDif.Normal;
     }
 
     public void Hard()
     {
-        speed = 6;
+        speed = 7;
         enemyDiff = enemyDif.Hard;
     }
 
     public void Insane()
     {
-        speed = 7;
+        speed = 8;
         enemyDiff = enemyDif.insane;
     }
 
 
-    public enemyDif getEnemyDif() {
+    public enemyDif getEnemyDif()
+    {
         return enemyDiff;
     }
 }
