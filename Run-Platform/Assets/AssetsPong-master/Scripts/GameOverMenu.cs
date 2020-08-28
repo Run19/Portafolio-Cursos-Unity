@@ -15,6 +15,7 @@ public class GameOverMenu : MonoBehaviour
 
     private void OnEnable()
     {
+
         if (GameManager.SI.getPPoints() > GameManager.SI.getEPoints())
         {
             switch (Enemy.SI.getEnemyDif())

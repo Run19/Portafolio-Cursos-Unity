@@ -5,18 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class CanvasScripty : MonoBehaviour
 {
-
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void goToBeatInsane()
     {
         SceneManager.LoadScene(1);
@@ -25,6 +13,4 @@ public class CanvasScripty : MonoBehaviour
     {
         SceneManager.LoadScene(2);
     }
-
-
 }

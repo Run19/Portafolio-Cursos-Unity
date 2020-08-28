@@ -10,7 +10,7 @@ public  class SoundManager : MonoBehaviour
     private void Awake()
     {
         if (SI == null)
-        {
+        { 
             SI = this;
         }
     }
@@ -21,4 +21,5 @@ public  class SoundManager : MonoBehaviour
     {
         enemy.PlayOneShot(enemy.clip);
     }
+
 }

@@ -10,7 +10,7 @@ public class Ball : MonoBehaviour
     public static Ball SI;
     Rigidbody2D ballRb;
     [SerializeField]
-    float Velocity;
+    private float Velocity;
     Vector3 initialpos;
     public GameObject GoText;
     private void Awake()

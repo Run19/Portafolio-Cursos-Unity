@@ -8,6 +8,7 @@ TagManager:
   - playerPoint
   - Bounce
   - Enemy
+  - poti
   layers:
   - Default
   - TransparentFX

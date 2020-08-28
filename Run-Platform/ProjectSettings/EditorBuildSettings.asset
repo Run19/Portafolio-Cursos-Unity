@@ -15,6 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/2DInfinito.unity
     guid: d45df5445fa8ffc4f98eb018886dac19
   - enabled: 1
-    path: Assets/Scenes/2d historia.unity
-    guid: 2dccaadde7cfd2140a3570ba16a09d75
+    path: Assets/Scenes/ThankForPlay.unity
+    guid: 89e878e35948fe34d9f19d8af61eb0e8
   m_configObjects: {}
