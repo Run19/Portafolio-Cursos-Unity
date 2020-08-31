@@ -1,0 +1,45 @@
+{
+    "name": "PlayerInput",
+    "maps": [
+        {
+            "name": "Dog",
+            "id": "1201389d-9fae-46fd-ae46-519655e7ff90",
+            "actions": [
+                {
+                    "name": "GoDog",
+                    "type": "Button",
+                    "id": "ee44c3af-4118-4c7a-bd18-a840634ed368",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "db93e0f8-16d7-4ae1-b97e-6189c0b00324",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Dog",
+                    "action": "GoDog",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Dog",
+            "bindingGroup": "Dog",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}

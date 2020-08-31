@@ -68,3 +68,5 @@ public class lvlGenerator : MonoBehaviour
         currentLvls.RemoveAt(0);
     }
 }
+
+
