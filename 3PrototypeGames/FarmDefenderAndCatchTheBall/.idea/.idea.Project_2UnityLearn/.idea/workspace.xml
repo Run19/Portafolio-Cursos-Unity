@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24b46abb-e1b3-4c2d-8cf0-bb6235c3e114" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CarSimulator/.idea/.idea.CarSimulator/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project_2UnityLearn/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project_2UnityLearn/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project_2UnityLearn/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project_2UnityLearn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project_2UnityLearn/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project_2UnityLearn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project_2UnityLearn/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/AnimalsCompleted.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/AnimalsCompleted/Animal_Moose_01 Variant.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/AnimalsCompleted/Animal_Moose_01 Variant.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/AnimalsCompleted/Animal_Moose_02 Variant.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/AnimalsCompleted/Animal_Moose_02 Variant.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/AnimalsCompleted/Animal_Stag_01 Variant.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/AnimalsCompleted/Animal_Stag_01 Variant.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/AnimalsCompleted/Dog_Beagle_01 Variant.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/AnimalsCompleted/Dog_Beagle_01 Variant.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/AnimalsCompleted/Dog_BorderCollie_01 Variant.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/AnimalsCompleted/Dog_BorderCollie_01 Variant.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/AnimalsCompleted/Dog_BullDog_01 Variant.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/AnimalsCompleted/Dog_BullDog_01 Variant.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/AnimalBehavior.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/AnimalBehavior.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects/DogEasy.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects/DogEasy.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects/DogHard.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects/DogHard.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects/DogMedium.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects/DogMedium.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects/ReindeerEasy 1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects/ReindeerEasy 1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects/ReindeerEasy.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects/ReindeerEasy.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects/ReindeerMedium.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects/ReindeerMedium.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/EnemyGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FoodFire/Scripts/ScriptableObjects/BounStats.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FoodFire/Scripts/ScriptableObjects/BounStats.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FoodFire/Scripts/ScriptableObjects/FoodStats.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FoodFire/Scripts/ScriptableObjects/PizzaStats.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/FoodFire/Scripts/ScriptableObjects/PizzaStats.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Black.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Black.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Brown.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Brown.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Daughter_Black.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Daughter_Black.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Daughter_Brown.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Daughter_Brown.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Daughter_White.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Daughter_White.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_FarmWrangler_Black.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_FarmWrangler_Black.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_FarmWrangler_Brown.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_FarmWrangler_Brown.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_FarmWrangler_White.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_FarmWrangler_White.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_White.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_White.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Wife_Black.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Wife_Black.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Wife_Brown.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Wife_Brown.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Wife_White.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/Humans/SimpleFarmer_Wife_White.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/InputScripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/PlayerControll.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/PlayerControll.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/PlayerControll.inputactions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/PlayerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player/PlayerController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Binding Composite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Binding Composite/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Binding Composite/CustomComposite.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Binding Composite/CustomComposite.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Binding Composite/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Binding Composite/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device Usages.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device Usages/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device Usages/.sample.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device Usages/CustomDeviceUsages.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device Usages/CustomDeviceUsages.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device Usages/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device Usages/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device Usages/TwoPlayerControls.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device Usages/TwoPlayerControls.inputactions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device/CustomDevice.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device/CustomDevice.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Custom Device/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/GamepadMouseCursorSample.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/GamepadMouseCursorSample.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/GamepadMouseCursorUIActions.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/GamepadMouseCursorUIActions.inputactions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/Unity.InputSystem.VirtualMouseInput.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/Unity.InputSystem.VirtualMouseInput.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/VirtualMouseInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/VirtualMouseInput.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/VirtualMouseInput.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/VirtualMouseInput.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/crosshair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/crosshair.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/In-Game Hints.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/In-Game Hints/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsActions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsActions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsActions.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsActions.inputactions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsExample.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsExample.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsSampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsSampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/In-Game Hints/Unity.InputSystem.InGameHints.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/In-Game Hints/Unity.InputSystem.InGameHints.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Input Recorder.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Input Recorder/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Input Recorder/InputRecorder.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Input Recorder/InputRecorder.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Input Recorder/InputRecorderInspector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Input Recorder/InputRecorderInspector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Input Recorder/InputRecorderSample.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Input Recorder/InputRecorderSample.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Input Recorder/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Input Recorder/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Input Recorder/Unity.InputSystem.Recorder.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Input Recorder/Unity.InputSystem.Recorder.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/InputDeviceTester.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/InputDeviceTester/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/InputDeviceTester/.sample.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/InputDeviceTester/InputDeviceTester.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/InputDeviceTester/InputDeviceTester.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/On-Screen Controls.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/On-Screen Controls/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/On-Screen Controls/Button.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/On-Screen Controls/Button.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/On-Screen Controls/OnScreenControlsSample.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/On-Screen Controls/OnScreenControlsSample.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/On-Screen Controls/Stick.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/On-Screen Controls/Stick.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/GamepadIconsExample.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/GamepadIconsExample.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/Icons.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindActionUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindActionUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindActionUIEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindActionUIEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindUIPrefab.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindUIPrefab.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindUISampleActions.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindUISampleActions.inputactions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindingUISampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindingUISampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/Unity.InputSystem.RebindingUI.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Rebinding UI/Unity.InputSystem.RebindingUI.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/.sample.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/Environment.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/Environment.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingActionAsset.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingActionAsset.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingActions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingActions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingPlayerInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingPlayerInput.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingState.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingState.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleControls.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleControls.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleControls.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleControls.inputactions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingActionAsset.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingActionAsset.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingActions.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingActions.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingPlayerInput.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingPlayerInput.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingState.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingState.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleProjectile.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleProjectile.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Multiplayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Multiplayer/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Multiplayer/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Multiplayer/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Multiplayer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Multiplayer/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Multiplayer/SimpleMultiplayerControls.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Multiplayer/SimpleMultiplayerControls.inputactions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Multiplayer/SimpleMultiplayerDemo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Multiplayer/SimpleMultiplayerDemo.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Multiplayer/SimpleMultiplayerPlayer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Multiplayer/SimpleMultiplayerPlayer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Tanks Demo.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Tanks Demo/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Tanks Demo/TanksDemo.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Tanks Demo/TanksDemo.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Touch Samples.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Touch Samples/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Touch Samples/TouchSamples.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Touch Samples/TouchSamples.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/GamepadVis.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/GamepadVis.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/GamepadVisualizer.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/GamepadVisualizer.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/InputActionVisualizer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/InputActionVisualizer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/InputControlVisualizer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/InputControlVisualizer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/InputVisualizer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/InputVisualizer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/MouseVis.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/MouseVis.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/MouseVisualizer.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/MouseVisualizer.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/PenVis.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/PenVis.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/PenVisualizer.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/PenVisualizer.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/SimpleControls.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/SimpleControls.inputactions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/SimpleControlsVis.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/SimpleControlsVis.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/SimpleControlsVisualizer.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/SimpleControlsVisualizer.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/Unity.InputSystem.Visualizers.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/Unity.InputSystem.Visualizers.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/VisualizationHelpers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Visualizers/VisualizationHelpers.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/.idea/.idea.UI/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crrearas2D/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Crrearas2D/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crrearas2D/Assets/Scripts/lvlGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Crrearas2D/Assets/Scripts/lvlGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Run-Platform/Assets/Scenes/2DInfinito.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Run-Platform/Assets/Scenes/2DInfinito.unity" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/FoodFire/Scripts/ScriptableObjects/FoodStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2FEAF16E-8000-4E0C-ADAE-3F2E05F2A3FA/58/b20d9b9c/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2FEAF16E-8000-4E0C-ADAE-3F2E05F2A3FA/96/4ce695fe/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Crrearas2D/Assets/Scripts/StreetMove.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animals/Scripts/AnimalBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2FEAF16E-8000-4E0C-ADAE-3F2E05F2A3FA/54/6fd64748/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EnemyGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7A640F6C-B241-40B6-897C-AC910F849430/39/9ac22fcf/Void.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2FEAF16E-8000-4E0C-ADAE-3F2E05F2A3FA/3a/499819fa/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Crrearas2D/Assets/Scripts/lvlGenerator.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/FoodMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FoodMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DogObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animals/Scripts/DogObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FoodStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/FoodFire/Scripts/FoodMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animals/Scripts/AnimalBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animals/Scripts/ScriptableObjects/DogObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnemyGenerator.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1goIkgtxT3IwBfrNpYuga4sJSAc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24b46abb-e1b3-4c2d-8cf0-bb6235c3e114" name="Default Changelist" comment="" />
+      <created>1598774669484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598774669484</updated>
+      <workItem from="1598774669557" duration="383000" />
+      <workItem from="1598775074921" duration="393000" />
+      <workItem from="1598800079919" duration="12801000" />
+      <workItem from="1598817493685" duration="33000" />
+      <workItem from="1598817539301" duration="3595000" />
+      <workItem from="1598821234925" duration="6602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="185" key="#Inspection_severity" timestamp="1598816729221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="536" y="185" key="#Inspection_severity/0.0.1920.1080@0.0.1920.1080" timestamp="1598816729221" />
+    <state x="461" y="184" key="SettingsEditor" timestamp="1598818182223">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1598818182223" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1598824242051">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598824242051" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1598822902209">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598822902209" />
+  </component>
+</project>
