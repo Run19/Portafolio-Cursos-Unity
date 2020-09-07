@@ -41,7 +41,17 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+<<<<<<< HEAD
         Move();
+=======
+        //Movement
+        transform.Translate(_move.x * Time.deltaTime * _currentVelocity, 0,
+            _move.y * Time.deltaTime * _currentVelocity);
+        transform.position = new Vector3(Mathf.Clamp(transform.position.x, -xRange, xRange),
+            transform.position.y,
+            Mathf.Clamp(transform.position.z, yRange.x, yRange.y));
+        //Fire
+>>>>>>> 84074a881f228a7b580d5d793547ce3b6383b243
         if (_timeBetweenFire < 0 && _atacking)
         {
             Attack();
@@ -51,6 +61,7 @@ public class PlayerController : MonoBehaviour
             _timeBetweenFire -= Time.deltaTime;
     }
 
+<<<<<<< HEAD
     private void Move()
     {
         transform.Translate(_move.x * Time.deltaTime * _currentVelocity, 0,
@@ -60,6 +71,8 @@ public class PlayerController : MonoBehaviour
             Mathf.Clamp(transform.position.z, yRange.x, yRange.y));
     }
 
+=======
+>>>>>>> 84074a881f228a7b580d5d793547ce3b6383b243
     private void OnEnable()
     {
         _control.Player.Enable();
