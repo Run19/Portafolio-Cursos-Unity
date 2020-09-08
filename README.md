@@ -1,8 +1,7 @@
 # Portafolio Unity
 1. **Pac-Man Clone**👻
 2. **RPG Platzi(Juego base)** 🏡
-<<<<<<< HEAD
-3. **Space-Adventure(Pong y 2D procedural)**🧶
+3. **Space Adventure**🧶
 4. **Racing Master**🚗
 5. **3PrototypeGames**
 	1.Catch The Ball
