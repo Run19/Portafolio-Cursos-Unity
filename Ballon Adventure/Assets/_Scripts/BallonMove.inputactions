@@ -1,0 +1,64 @@
+{
+    "name": "BallonMove",
+    "maps": [
+        {
+            "name": "Keybpard",
+            "id": "aa0b3346-ed5d-4873-bcb2-ab236189817c",
+            "actions": [
+                {
+                    "name": "Fly",
+                    "type": "Button",
+                    "id": "1d7e110f-28f0-447b-9fb6-94644767eb63",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Reestart",
+                    "type": "Button",
+                    "id": "7e52d4d0-5a7c-4f65-a8a1-6e30c7f867e0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "80433f10-66c9-4246-a573-ada15b9cda5e",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "New control scheme",
+                    "action": "Fly",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2f19edf4-7ab9-49f6-8cae-6cbd6b93562e",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "New control scheme",
+                    "action": "Reestart",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "New control scheme",
+            "bindingGroup": "New control scheme",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
