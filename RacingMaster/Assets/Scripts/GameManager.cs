@@ -9,16 +9,18 @@ public class GameManager : MonoBehaviour
     float currentTime;
     float currentScore;
     public static GameManager SI;
+
     private void Awake()
     {
         SI = SI == null ? this : SI;
     }
+
     void Start()
     {
         MainMenu();
     }
 
-    void Update() 
+    void Update()
     {
         if (currentGameState == gameState.inGame)
         {
@@ -37,16 +39,18 @@ public class GameManager : MonoBehaviour
         currentTime = 0;
         currentScore = 0;
         SoundManager.SI.playMusicInGame();
-
+        EnemyGenerator.ShIn.StartGame();
     }
+
     //Metodo llamada cuando el jugador pierde
     public void gameOver()
     {
         CanvasManager.SI.setCanvasGameOver();
         setMaxScore();
         currentGameState = gameState.GameOver;
+        EnemyGenerator.ShIn.DestroyAll();
     }
-    
+
     //Metodo llamado al regresar al menu inicial
     public void MainMenu()
     {
@@ -66,17 +70,18 @@ public class GameManager : MonoBehaviour
         }
         else PlayerPrefs.SetFloat("MaxScore", currentScore);
     }
-    
+
     //Invocamos a la variable tardia para la cuenta regresiva
     private void setGameStateInGame()
     {
         currentGameState = gameState.inGame;
     }
-    
+
     public float getCurrentTime()
     {
         return currentTime;
     }
+
     public float getCurrentScore()
     {
         return currentScore;
