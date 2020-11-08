@@ -20,198 +20,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aafcc67b-10ab-425d-a6ec-33be231d043e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CarSimulator/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/.idea/.idea.Project_2UnityLearn/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/.idea/.idea.Project_2UnityLearn/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/.idea/.idea.Project_2UnityLearn/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/.idea/.idea.Project_2UnityLearn/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/.idea/.idea.Project_2UnityLearn/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/.idea/.idea.Project_2UnityLearn/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/.idea/.idea.Project_2UnityLearn/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Binding Composite.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Binding Composite/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Binding Composite/CustomComposite.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Binding Composite/CustomComposite.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Binding Composite/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Binding Composite/README.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device Usages.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device Usages/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device Usages/.sample.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device Usages/CustomDeviceUsages.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device Usages/CustomDeviceUsages.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device Usages/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device Usages/README.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device Usages/TwoPlayerControls.inputactions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device Usages/TwoPlayerControls.inputactions.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device/CustomDevice.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device/CustomDevice.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Custom Device/README.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/GamepadMouseCursorSample.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/GamepadMouseCursorSample.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/GamepadMouseCursorUIActions.inputactions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/GamepadMouseCursorUIActions.inputactions.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/README.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/Unity.InputSystem.VirtualMouseInput.asmdef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/Unity.InputSystem.VirtualMouseInput.asmdef.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/VirtualMouseInput.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/VirtualMouseInput.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/VirtualMouseInput.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/VirtualMouseInput.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/crosshair.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Gamepad Mouse Cursor/crosshair.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/In-Game Hints.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/In-Game Hints/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsActions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsActions.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsActions.inputactions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsActions.inputactions.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsExample.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsExample.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsSampleScene.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/In-Game Hints/InGameHintsSampleScene.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/In-Game Hints/Unity.InputSystem.InGameHints.asmdef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/In-Game Hints/Unity.InputSystem.InGameHints.asmdef.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Input Recorder.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Input Recorder/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Input Recorder/InputRecorder.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Input Recorder/InputRecorder.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Input Recorder/InputRecorderInspector.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Input Recorder/InputRecorderInspector.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Input Recorder/InputRecorderSample.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Input Recorder/InputRecorderSample.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Input Recorder/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Input Recorder/README.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Input Recorder/Unity.InputSystem.Recorder.asmdef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Input Recorder/Unity.InputSystem.Recorder.asmdef.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/InputDeviceTester.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/InputDeviceTester/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/InputDeviceTester/.sample.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/InputDeviceTester/InputDeviceTester.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/InputDeviceTester/InputDeviceTester.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/On-Screen Controls.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/On-Screen Controls/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/On-Screen Controls/Button.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/On-Screen Controls/Button.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/On-Screen Controls/OnScreenControlsSample.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/On-Screen Controls/OnScreenControlsSample.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/On-Screen Controls/Stick.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/On-Screen Controls/Stick.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/GamepadIconsExample.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/GamepadIconsExample.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/Icons.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/README.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindActionUI.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindActionUI.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindActionUIEditor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindActionUIEditor.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindUIPrefab.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindUIPrefab.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindUISampleActions.inputactions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindUISampleActions.inputactions.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindingUISampleScene.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/RebindingUISampleScene.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/Unity.InputSystem.RebindingUI.asmdef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Rebinding UI/Unity.InputSystem.RebindingUI.asmdef.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/.sample.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/Environment.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/Environment.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/README.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingActionAsset.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingActionAsset.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingActions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingActions.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingPlayerInput.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingPlayerInput.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingState.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingState.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleControls.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleControls.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleControls.inputactions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleControls.inputactions.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingActionAsset.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingActionAsset.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingActions.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingActions.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingPlayerInput.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingPlayerInput.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingState.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleDemo_UsingState.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleProjectile.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleProjectile.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Multiplayer.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Multiplayer/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Multiplayer/Player.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Multiplayer/Player.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Multiplayer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Multiplayer/README.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Multiplayer/SimpleMultiplayerControls.inputactions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Multiplayer/SimpleMultiplayerControls.inputactions.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Multiplayer/SimpleMultiplayerDemo.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Multiplayer/SimpleMultiplayerDemo.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Multiplayer/SimpleMultiplayerPlayer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Simple Multiplayer/SimpleMultiplayerPlayer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Tanks Demo.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Tanks Demo/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Tanks Demo/TanksDemo.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Tanks Demo/TanksDemo.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Touch Samples.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Touch Samples/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Touch Samples/TouchSamples.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Touch Samples/TouchSamples.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/.sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/GamepadVis.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/GamepadVis.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/GamepadVisualizer.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/GamepadVisualizer.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/InputActionVisualizer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/InputActionVisualizer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/InputControlVisualizer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/InputControlVisualizer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/InputVisualizer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/InputVisualizer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/MouseVis.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/MouseVis.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/MouseVisualizer.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/MouseVisualizer.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/PenVis.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/PenVis.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/PenVisualizer.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/PenVisualizer.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/SimpleControls.inputactions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/SimpleControls.inputactions.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/SimpleControlsVis.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/SimpleControlsVis.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/SimpleControlsVisualizer.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/SimpleControlsVisualizer.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/Unity.InputSystem.Visualizers.asmdef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/Unity.InputSystem.Visualizers.asmdef.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/VisualizationHelpers.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Samples/Input System/1.0.0/Visualizers/VisualizationHelpers.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Scripts/Food_Pizza_01 Variant.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Scripts/Food_Pizza_01 Variant.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Scripts/InputScripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Scripts/InputScripts/PlayerControll.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project_2UnityLearn/Assets/Scripts/InputScripts/PlayerControll.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UI/.idea/.idea.UI/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Crrearas2D/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Crrearas2D/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Crrearas2D/Assets/Scripts/lvlGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Crrearas2D/Assets/Scripts/lvlGenerator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Run-Platform/Assets/Scenes/2DInfinito.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Run-Platform/Assets/Scenes/2DInfinito.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BallsGame(WIP)/.idea/.idea.BallsGame(WIP)/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BallsGame(WIP)/.idea/.idea.BallsGame(WIP)/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BallsGame(WIP)/.idea/.idea.BallsGame(WIP)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BallsGame(WIP)/.idea/.idea.BallsGame(WIP)/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BallsGame(WIP)/.idea/.idea.BallsGame(WIP)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BallsGame(WIP)/.idea/.idea.BallsGame(WIP)/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BallsGame(WIP)/.idea/.idea.BallsGame(WIP)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BallsGame(WIP)/.idea/.idea.BallsGame(WIP)/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RPG(Prototipo)/.idea/.idea.RPG(Prototipo)/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unity2D Learn/.idea/.idea.Unity2D Learn/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BallsGame(WIP)/Assets/Scenes/Prototype 4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../BallsGame(WIP)/Assets/Scenes/Prototype 4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BallsGame(WIP)/Assets/_Scripts/CameraRotation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../BallsGame(WIP)/Assets/_Scripts/CameraRotation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BallsGame(WIP)/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../BallsGame(WIP)/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/Logs/Packages-Update.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/VFXManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cut the fruit(WIP)/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPG(Prototipo)/Assets/Scripts/PlayerControler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPG(Prototipo)/Assets/Scripts/PlayerControler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPG(Prototipo)/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPG(Prototipo)/Logs/Packages-Update.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPG(Prototipo)/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPG(Prototipo)/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPG(Prototipo)/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPG(Prototipo)/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RPG(Prototipo)/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../RPG(Prototipo)/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,16 +60,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.0.0/InputSystem/Actions/InputActionState.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2FEAF16E-8000-4E0C-ADAE-3F2E05F2A3FA/96/4ce695fe/Transform.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.0.0/InputSystem/Utilities/DelegateHelpers.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CarController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraMove.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.0.0/InputSystem/Actions/InputActionState.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.0.0/InputSystem/Utilities/DelegateHelpers.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.0.0/InputSystem/Actions/InputAction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7A640F6C-B241-40B6-897C-AC910F849430/39/9ac22fcf/Void.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2FEAF16E-8000-4E0C-ADAE-3F2E05F2A3FA/4c/e402b82d/SendMessageOptions.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -236,8 +77,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -253,6 +94,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -287,6 +129,7 @@
       <workItem from="1598744375602" duration="417000" />
       <workItem from="1598744804132" duration="15685000" />
       <workItem from="1598800312551" duration="1865000" />
+      <workItem from="1602974921148" duration="54000" />
     </task>
     <servers />
   </component>
@@ -350,14 +193,7 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/InputManager/Input System/1.0.0/Input Recorder/InputRecorder.cs</url>
           <line>38</line>
-          <properties documentPath="D:\Unity Dev\Portafolio-Unity-Learn\CarSimulator\Assets\InputManager\Input System\1.0.0\Input Recorder\InputRecorder.cs" initialLine="38">
-            <startOffsets>
-              <option value="1761" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1805" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="D:\Unity Dev\Portafolio-Unity-Learn\CarSimulator\Assets\InputManager\Input System\1.0.0\Input Recorder\InputRecorder.cs" initialLine="38" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

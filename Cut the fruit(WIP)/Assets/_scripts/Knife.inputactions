@@ -1,0 +1,39 @@
+{
+    "name": "Knife",
+    "maps": [
+        {
+            "name": "Keyboard",
+            "id": "fa458e5b-4f0c-4da5-a44a-9cf4f4e79d8e",
+            "actions": [
+                {
+                    "name": "Cut",
+                    "type": "Button",
+                    "id": "e34450a9-6669-49be-9e9b-c0e2c743c799",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8dba04e6-3600-4b34-bdb2-4a29349d06ec",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Cut",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Keyboard",
+            "bindingGroup": "Keyboard",
+            "devices": []
+        }
+    ]
+}

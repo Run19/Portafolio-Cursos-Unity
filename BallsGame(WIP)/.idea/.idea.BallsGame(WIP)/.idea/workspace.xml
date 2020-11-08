@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f36c88ec-8107-480b-b813-8b5addc33d4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BallsGame(WIP)/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BallsGame(WIP)/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BallsGame(WIP)/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BallsGame(WIP)/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BallsGame(WIP)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BallsGame(WIP)/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BallsGame(WIP)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.BallsGame(WIP)/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPG(Prototipo)/.idea/.idea.RPG(Prototipo)/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unity2D Learn/.idea/.idea.Unity2D Learn/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3PrototypeGames/CarSimulator/.idea/.idea.CarSimulator/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3PrototypeGames/CarSimulator/.idea/.idea.CarSimulator/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3PrototypeGames/CarSimulator/.idea/.idea.CarSimulator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3PrototypeGames/CarSimulator/.idea/.idea.CarSimulator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3PrototypeGames/CarSimulator/.idea/.idea.CarSimulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3PrototypeGames/CarSimulator/.idea/.idea.CarSimulator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3PrototypeGames/CarSimulator/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../3PrototypeGames/CarSimulator/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/CameraRotation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/CameraRotation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/Logs/Packages-Update.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/VFXManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Cut the fruit(WIP)/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPG(Prototipo)/Assets/Scripts/PlayerControler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../RPG(Prototipo)/Assets/Scripts/PlayerControler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPG(Prototipo)/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/../RPG(Prototipo)/Logs/Packages-Update.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPG(Prototipo)/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../RPG(Prototipo)/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPG(Prototipo)/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../RPG(Prototipo)/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPG(Prototipo)/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../RPG(Prototipo)/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/_Scripts/playerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/CameraRotation.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ivTQuqEAgfmbmfdo7pwHNaBzym" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f36c88ec-8107-480b-b813-8b5addc33d4a" name="Default Changelist" comment="" />
+      <created>1602787056324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602787056324</updated>
+      <workItem from="1602787056583" duration="1241000" />
+      <workItem from="1604204536390" duration="2575000" />
+      <workItem from="1604276403376" duration="2552000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="184" key="SettingsEditor" timestamp="1604206179855">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1604206179855" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1604205010804">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1604205010804" />
+  </component>
+</project>

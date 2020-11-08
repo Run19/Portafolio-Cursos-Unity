@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
             transform.Rotate(Vector3.up * _move.x);
         }
     }
- |    
+
 
     private void OnEnable()
     {
